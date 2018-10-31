@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @cave3 Sign out
-0
-0 0 cave3/JS-React-MERN-Stack
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-JS-React-MERN-Stack/.gitignore
-29f6613  2 days ago
-@cave3 cave3 added react client, bootstrap and AppNavbar component
-     
-22 lines (16 sloc)  296 Bytes
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 node_modules/
@@ -36,16 +18,3 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
